@@ -2,7 +2,7 @@
 
 This repository contains a chatbot application that leverages Retrieval-Augmented Generation (RAG) for enhanced conversational abilities. The project uses Groq for model inference, Pinecone as the vector database for storing and retrieving document embeddings, and is deployed on HuggingFace Spaces for easy access and demonstration.
 
-A live demo can be found here: https://huggingface.co/spaces/mt3842ml/NYC-Buddy
+A live application demo can be found on [HuggingFace Spaces](https://huggingface.co/spaces/mt3842ml/NYC-Buddy) without needing any account or API keys.
 
 ## Overview
 <img src="img/ApplicationFlowMap.png" width="80%" height="80%">
@@ -37,7 +37,7 @@ The chatbot interface is built using Gradio for an intuitive user experience. Th
 This project is hosted on HuggingFace Spaces, which allows easy deployment and access. Spaces provides a free and efficient way to run this AI application in a web environment without requiring any infrastructure.
 
 ## Requirements
-This application requires a free [Groq](https://www.groq.com) API key for the inference engine, and a free [Pinecone](https://www.pinecone.io) API key for the vector database services. 
+The application demo on [HuggingFace Spaces](https://huggingface.co/spaces/mt3842ml/NYC-Buddy) is free to use. If you wish to run the application on another machine, it requires a free [Groq](https://www.groq.com) API key for the inference engine, and a free [Pinecone](https://www.pinecone.io) API key for the vector database services. 
 
 ## Future Enhancements
 
