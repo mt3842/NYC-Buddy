@@ -1,0 +1,10 @@
+huggingface_hub==0.29.3
+datasets==2.14.5
+pinecone-client==4.1.0
+numpy==1.26.0
+pandas==2.2.2
+torch==2.6.0
+semantic-router
+cohere
+groq==0.20.0
+transformers==4.50.2
