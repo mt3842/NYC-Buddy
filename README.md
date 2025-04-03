@@ -5,6 +5,7 @@ This repository contains a chatbot application that leverages Retrieval-Augmente
 A live demo can be found here: https://huggingface.co/spaces/mt3842ml/NYC-Buddy
 
 ## Overview
+<img src="img/ApplicationFlowMap.png" width="80%" height="80%">
 
 NYC Buddy is a chatbot designed to provide personalized recommendations for users asking about New York City related questions. The chatbot utilized RAG on similar forum queries, where real people give recommendations. This is leveraged to give the bot more context on recommendations, rather than just the first few results on a google search. It allows for insightful suggestions on more niche and local spots that may not have normally been recommended by a standard LLM. 
 
