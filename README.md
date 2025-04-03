@@ -1,15 +1,3 @@
----
-title: NYC Buddy
-emoji: 💬
-colorFrom: blue
-colorTo: pink
-sdk: gradio
-sdk_version: 5.0.1
-app_file: app.py
-pinned: false
-short_description: Chatbot with RAG using forum-based data
----
-
 # RAG Chatbot with Groq & Pinecone
 
 This repository contains a chatbot application that leverages Retrieval-Augmented Generation (RAG) for enhanced conversational abilities. The project uses Groq for model inference, Pinecone as the vector database for storing and retrieving document embeddings, and is deployed on HuggingFace Spaces for easy access and demonstration.
